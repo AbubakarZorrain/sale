@@ -53,7 +53,7 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'touqeer.urls'
-TEMPLATES_DIRS = os.path.join(BASE_DIR,'touqeerapp1/templates/touqeerapp')
+TEMPLATES_DIRS = os.path.join(BASE_DIR,'touqeerapp1/templates/touqeerapp1')
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
