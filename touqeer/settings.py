@@ -25,7 +25,7 @@ SECRET_KEY = 'i)!ra8=n=g%^7=&0pb89$dakb=8h@2fa)xuze($3y2dcpsfxy('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['zorrain-site.herokuapp.com']
+ALLOWED_HOSTS = ['zorrain-site.herokuapp.com','127.0.0.1']
 
 
 # Application definition
